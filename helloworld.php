@@ -1,5 +1,3 @@
-<?XXX
-
-echo "my hello world got bug?";
-
+<?PHP
+echo "my hello world no more bug!";
 ?>
